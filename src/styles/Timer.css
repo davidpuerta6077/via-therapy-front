@@ -1,0 +1,11 @@
+.timer *{
+    width: 200px;
+    margin: 20px auto;
+    background-color: #668983;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: 30px;
+    padding: 15px;
+    border-radius: 10px;
+}

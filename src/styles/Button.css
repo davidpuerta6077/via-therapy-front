@@ -1,0 +1,22 @@
+.custom-btn {
+    background-color: #668983;
+    color: aliceblue;
+    border-radius: 10px;
+    height: 50px;
+    width: 150px;
+    border: none;
+    margin: 10px auto 30px auto;
+    font-weight: bold;
+    font-size: 20px;
+    transition: all ease-in-out 0.3s;
+}
+
+.custom-btn:hover {
+    background-color: #7ba19b;
+    transition: all ease-in-out 0.3s;
+}
+
+#buttonContainer {
+    margin: auto;
+    width: 130px;
+}

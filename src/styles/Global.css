@@ -1,0 +1,34 @@
+@import url('Sidebar.css');
+@import url('VideoContainer.css');
+@import url('Button.css');
+@import url('Timer.css');
+@import url('SampleImage.css');
+@import url('Cards.css');
+
+:root {
+    --header-height: 3rem;
+    --nav-width: 68px;
+    --main-color: #d0f0e0
+}
+
+*, :after, :before {
+    box-sizing: border-box;
+}
+
+main {
+    /* background-color: #d0f0e0; */
+    height: 100%;
+}
+
+
+.shadow-left {
+    -webkit-box-shadow: 0px 5px 39px -11px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 5px 39px -11px rgba(0,0,0,0.75);
+    box-shadow: 0px 5px 39px -11px rgba(0,0,0,0.75);
+}
+
+.shadow-right {
+    -webkit-box-shadow: 6px 1px 63px -16px rgba(0,0,0,0.75);
+    -moz-box-shadow: 6px 1px 63px -16px rgba(0,0,0,0.75);
+    box-shadow: 6px 1px 63px -16px rgba(0,0,0,0.75);
+}
